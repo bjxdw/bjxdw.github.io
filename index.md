@@ -10,8 +10,20 @@ I’m a fourth-year undergraduate at Zhejiang University and a research intern a
 
 I am broadly interested in Computer Vision and, more specifically, in Physical Understanding from visual data. My research explores how AI systems can infer physical properties of the natural world and how different visual representations reveal various physical cues.
 
-
 ## Education
+
+<!-- ZJU -->
+<div class="edu-item">
+  <div class="edu-info">
+    <span class="edu-school">Zhejiang University </span> <span class="edu-date">Sept. 2022 – Present</span><br>
+    <strong>BEng. (Honors)</strong> in Robotic Engineering, College of Control Science and Engineering
+  </div>
+  <div class="edu-logo">
+    <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
+  </div>
+</div>
+
+## Experiences
 <!-- UT Austin -->
 <div class="edu-item">
   <div class="edu-info">
@@ -34,17 +46,6 @@ I am broadly interested in Computer Vision and, more specifically, in Physical
   </div>
 </div>
 
-<!-- ZJU -->
-<div class="edu-item">
-  <div class="edu-info">
-    <span class="edu-school">Zhejiang University </span> <span class="edu-date">Sept. 2022 – Present</span><br>
-    <strong>BEng. (Honors)</strong> in Robotic Engineering, College of Control Science and Engineering
-  </div>
-  <div class="edu-logo">
-    <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
-  </div>
-</div>
-
 <style>
 /* 轻量级排版，不会影响全站样式 */
 .edu-item{
@@ -58,10 +59,6 @@ I am broadly interested in Computer Vision and, more specifically, in Physical
 .edu-date{ color:#666; font-size:0.9rem; }
 .edu-school{ font-weight:600; color: #333;}
 </style>
-
-## Publication
-
-Coming Soon...
 
 {% include_relative _includes/publications.md %}
 
