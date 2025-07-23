@@ -63,9 +63,7 @@ I am broadly interested in Computer Vision and, more specifically, in Physical
 
 Coming Soon...
 
-{% comment %}
 {% include_relative _includes/publications.md %}
-{% endcomment %}
 
 {% comment %}
 {% include_relative _includes/services.md %}
