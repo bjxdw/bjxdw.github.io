@@ -45,7 +45,7 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
     B.S.(Honors) in Robotic Engineering
   </div>
   <div class="edu-logo">
-    <img src="/assets/img/UofT_logo.png" alt="UofT logo">
+    <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
   </div>
 </div>
 
