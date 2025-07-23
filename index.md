@@ -24,7 +24,6 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
   </div>
 </div>
 
-## Experience
 <!-- UT Austin -->
 <div class="edu-item">
   <div class="edu-info">
