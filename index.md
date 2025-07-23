@@ -42,7 +42,7 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
     <strong>Exchange Student</strong>, Department of Electrical & Computer Engineering
   </div>
   <div class="edu-logo">
-    <img src="/assets/img/UofT_logo.png" alt="UofT logo">
+    <img src="/assets/img/UofT_logo3.png" alt="UofT logo">
   </div>
 </div>
 
@@ -54,20 +54,12 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
   margin-bottom:1.2rem;
 }
 .edu-info{ flex:1; }
-.edu-logo{
-  /* 右侧预留的“盒子”宽度，可按需要调大/调小 */
-  width:90px;                 /* 给文本留个统一右边距 */
-  display:flex;
-  align-items:center;
-  justify-content:center;
-}
-.edu-logo img{
-  height:70px;                /* 想要的统一高度 */
-  width:auto;                 /* 保持纵横比 */
-}
+.edu-logo{ width:70px; text-align:right; }
+.edu-logo img{ max-width:100%; height:auto; }
 .edu-date{ color:#666; font-size:0.9rem; }
 .edu-school{ font-weight:600; }
 </style>
+
 
 {% include_relative _includes/publications.md %}
 
