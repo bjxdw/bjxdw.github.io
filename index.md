@@ -18,7 +18,6 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
   <div class="edu-info">
     <span class="edu-school">The University of Texas at Austin </span> <span class="edu-date">Jun. 2025 – Present</span> <br>
     <strong>Research Intern</strong>, Department of Computer Science
-    Advisors: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/), and [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml)
   </div>
   <div class="edu-logo">
     <img src="/assets/img/UT_logo.png" alt="UT logo">
@@ -61,7 +60,14 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
 .edu-school{ font-weight:600; }
 </style>
 
+## Publication
 
-/*{% include_relative _includes/publications.md %}*/
+Coming Soon...
 
-/*{% include_relative _includes/services.md %}*/
+{% comment %}
+{% include_relative _includes/publications.md %}
+{% endcomment %}
+
+{% comment %}
+{% include_relative _includes/services.md %}
+{% endcomment %}
