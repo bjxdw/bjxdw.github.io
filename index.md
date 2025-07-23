@@ -13,22 +13,12 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
 
 
 ## Education
-<!-- ZJU -->
-<div class="edu-item">
-  <div class="edu-info">
-    <span class="edu-school">Zhejiang University </span> <span class="edu-date">Sept. 2022 – Present</span><br>
-    <strong>B.S. (Honors)</strong> in Robotic Engineering
-  </div>
-  <div class="edu-logo">
-    <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
-  </div>
-</div>
-
 <!-- UT Austin -->
 <div class="edu-item">
   <div class="edu-info">
     <span class="edu-school">The University of Texas at Austin </span> <span class="edu-date">Jun. 2025 – Present</span> <br>
     <strong>Research Intern</strong>, Department of Computer Science
+    Advisors: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/), and [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml)
   </div>
   <div class="edu-logo">
     <img src="/assets/img/UT_logo.png" alt="UT logo">
@@ -43,6 +33,17 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
   </div>
   <div class="edu-logo">
     <img src="/assets/img/UofT_logo2.png" alt="UofT logo">
+  </div>
+</div>
+
+<!-- ZJU -->
+<div class="edu-item">
+  <div class="edu-info">
+    <span class="edu-school">Zhejiang University </span> <span class="edu-date">Sept. 2022 – Present</span><br>
+    <strong>B.S. (Honors)</strong> in Robotic Engineering
+  </div>
+  <div class="edu-logo">
+    <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
   </div>
 </div>
 
