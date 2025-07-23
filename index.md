@@ -56,7 +56,7 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
   margin-bottom:1.2rem;
 }
 .edu-info{ flex:1; }
-.edu-logo{ width:110px; text-align:right; }
+.edu-logo{ width:70px; text-align:right; }
 .edu-logo img{ max-width:100%; height:auto; }
 .edu-date{ color:#666; font-size:0.9rem; }
 .edu-school{ font-weight:600; }
