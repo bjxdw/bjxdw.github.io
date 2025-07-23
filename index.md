@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a 4th-year undergraduate at Zhejiang University advised by [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/). Currently, I am also a research intern at the University of Texas at Austin, fortunately advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/), and [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml). Previously, I exchanged at the University of Toronto and worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). 
-
+I’m a fourth-year undergraduate at Zhejiang University and a research intern at the University of Texas at Austin, advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/), and [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml). Previously, I was an exchange student at the University of Toronto, where I worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). At Zhejiang University, I'm fortunate to have worked with [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/).
 
 ## Research Interests
 
