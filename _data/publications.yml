@@ -1,11 +1,11 @@
 main:
 
-  - title: “HiTag: Hierarchical Image Tagging with Hyperbolic Vision-Language Modeling”
-    authors: Yi Yang,  <strong>Ziyue Peng</strong>, Kang Zhang, Xincheng Tan, Fan Lu, Jingting Ding, Kecheng Zheng, Minfeng Zhu, Wei Chen
-    conference_short: NeurIPS
-    conference: The Conference and Workshop on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
-    pdf: https://bjxdw.github.io/
-    code: https://bjxdw.github.io/
-    bibtex: https://bjxdw.github.io/
-    image: ./assets/img/HiTag_teaser.png
-    notes: Under Review
+  - title: "HiTag: Hierarchical Image Tagging with Hyperbolic Vision‑Language Modeling"
+    authors: "Yi Yang, <strong>Ziyue Peng</strong>, Kang Zhang, Xincheng Tan, Fan Lu, Jingting Ding, Kecheng Zheng, Minfeng Zhu, Wei Chen"
+    conference_short: "NeurIPS"
+    conference: "The Conference and Workshop on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025."
+    pdf: "https://bjxdw.github.io/"
+    code: "https://bjxdw.github.io/"
+    bibtex: "https://bjxdw.github.io/"
+    image: "./assets/img/HiTag_teaser.png"
+    notes: "Under Review"
