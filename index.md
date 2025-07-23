@@ -16,9 +16,8 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
 <!-- ZJU -->
 <div class="edu-item">
   <div class="edu-info">
-    <strong>B.S.</strong>  <span class="edu-date">Sept. 2022 – Present</span><br>
-    <span class="edu-school">Zhejiang University</span><br>
-    B.S.(Honors) in Robotic Engineering
+    <span class="edu-school">Zhejiang University </span> <span class="edu-date">Sept. 2022 – Present</span><br>
+    <strong>B.S. (Honors)</strong> in Robotic Engineering
   </div>
   <div class="edu-logo">
     <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
@@ -29,7 +28,7 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
 <!-- UT Austin -->
 <div class="edu-item">
   <div class="edu-info">
-    <span class="edu-school">The University of Texas at Austin</span> <span class="edu-date">Jun. 2025 – Present</span> <br>
+    <span class="edu-school">The University of Texas at Austin </span> <span class="edu-date">Jun. 2025 – Present</span> <br>
     <strong>Research Intern</strong>, Department of Computer Science
   </div>
   <div class="edu-logo">
@@ -40,7 +39,7 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
 <!-- UofT -->
 <div class="edu-item">
   <div class="edu-info">
-    <span class="edu-school">University of Toronto</span> <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
+    <span class="edu-school">University of Toronto </span> <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
     <strong>Exchange Student</strong>, Department of Electrical & Computer Engineering
   </div>
   <div class="edu-logo">
@@ -56,7 +55,7 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
   margin-bottom:1.2rem;
 }
 .edu-info{ flex:1; }
-.edu-logo{ height:70px; text-align:right; }
+.edu-logo{ width:70px; text-align:right; }
 .edu-logo img{ max-width:100%; height:auto; }
 .edu-date{ color:#666; font-size:0.9rem; }
 .edu-school{ font-weight:600; }
