@@ -9,7 +9,7 @@ I’m a 4th-year undergraduate at Zhejiang University advised by [Prof. Wei Ch
 
 ## Research Interests
 
-Broadly, my research sits at the intersection of Computer Vision and Physical Understanding. I study how AI systems can learn different physical properties from the natural world, and how different visual representations expose different physical information. My work aims to answer these questions.
+I am broadly interested in **Computer Vision** and, more specifically, in **Physical Understanding** from visual data. My research explores how AI systems can infer physical properties of the natural world and how different visual representations reveal various physical cues.
 
 
 ## Education
