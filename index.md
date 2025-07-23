@@ -56,8 +56,8 @@ I am broadly interested in Computer Vision and, more specifically, in Physical
 .edu-info{ flex:1; }
 .edu-logo{ width:70px; text-align:right; }
 .edu-logo img{ max-width:100%; height:auto; }
-.edu-date{ color:#666; font-size:0.9rem; }
-.edu-school{ font-weight:600; color: #333;}
+.edu-date{ font-size:0.9rem; }
+.edu-school{ font-weight:600;}
 </style>
 
 {% include_relative _includes/publications.md %}
