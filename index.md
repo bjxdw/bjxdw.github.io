@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a 4th-year undergraduate at Zhejiang University advised by [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/). Currently, I am a research intern at the University of Texas at Austin, advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/), and [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml). Previously, I exchanged at the University of Toronto and worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). 
+I’m a 4th-year undergraduate at Zhejiang University advised by [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/). Currently, I am also a research intern at the University of Texas at Austin, fortunately advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/), and [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml). Previously, I exchanged at the University of Toronto and worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). 
 
 
 ## Research Interests
@@ -55,8 +55,17 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
   margin-bottom:1.2rem;
 }
 .edu-info{ flex:1; }
-.edu-logo{ width:70px; text-align:right; }
-.edu-logo img{ max-width:100%; height:auto; }
+.edu-logo{
+  /* 右侧预留的“盒子”宽度，可按需要调大/调小 */
+  width:90px;                 /* 给文本留个统一右边距 */
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.edu-logo img{
+  height:70px;                /* 想要的统一高度 */
+  width:auto;                 /* 保持纵横比 */
+}
 .edu-date{ color:#666; font-size:0.9rem; }
 .edu-school{ font-weight:600; }
 </style>
