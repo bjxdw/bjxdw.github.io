@@ -13,30 +13,6 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
 
 
 ## Education
-<!-- UT Austin -->
-<div class="edu-item">
-  <div class="edu-info">
-    <strong>Intern</strong>  <span class="edu-date">Jun. 2025 – Present</span><br>
-    <span class="edu-school">The University of Texas at Austin</span><br>
-    Department of Computer Science
-  </div>
-  <div class="edu-logo">
-    <img src="/assets/img/UT_logo.png" alt="UT logo">
-  </div>
-</div>
-
-<!-- UofT -->
-<div class="edu-item">
-  <div class="edu-info">
-    <strong>Exchange</strong>  <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
-    <span class="edu-school">University of Toronto</span><br>
-    Department of Electrical & Computer Engineering
-  </div>
-  <div class="edu-logo">
-    <img src="/assets/img/UofT_logo2.png" alt="UofT logo">
-  </div>
-</div>
-
 <!-- ZJU -->
 <div class="edu-item">
   <div class="edu-info">
@@ -49,6 +25,28 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
   </div>
 </div>
 
+## Experience
+<!-- UT Austin -->
+<div class="edu-item">
+  <div class="edu-info">
+    <span class="edu-school">The University of Texas at Austin</span> <span class="edu-date">Jun. 2025 – Present</span> <br>
+    <strong>Research Intern</strong>, Department of Computer Science
+  </div>
+  <div class="edu-logo">
+    <img src="/assets/img/UT_logo.png" alt="UT logo">
+  </div>
+</div>
+
+<!-- UofT -->
+<div class="edu-item">
+  <div class="edu-info">
+    <span class="edu-school">University of Toronto</span> <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
+    <strong>Exchange Student</strong>, Department of Electrical & Computer Engineering
+  </div>
+  <div class="edu-logo">
+    <img src="/assets/img/UofT_logo.png" alt="UofT logo">
+  </div>
+</div>
 
 <style>
 /* 轻量级排版，不会影响全站样式 */
