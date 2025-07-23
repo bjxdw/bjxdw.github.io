@@ -33,7 +33,7 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
     Department of Electrical & Computer Engineering
   </div>
   <div class="edu-logo">
-    <img src="/assets/img/UofT_logo.png" alt="UofT logo">
+    <img src="/assets/img/UofT_logo2.png" alt="UofT logo">
   </div>
 </div>
 
