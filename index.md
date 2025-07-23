@@ -39,7 +39,7 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
 <div class="edu-item">
   <div class="edu-info">
     <span class="edu-school">Zhejiang University </span> <span class="edu-date">Sept. 2022 – Present</span><br>
-    <strong>B.S. (Honors)</strong> in Robotic Engineering
+    <strong>BEng. (Honors)</strong> in Robotic Engineering, College of Control Science and Engineering
   </div>
   <div class="edu-logo">
     <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
