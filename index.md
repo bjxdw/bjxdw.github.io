@@ -13,30 +13,42 @@ Broadly, my research sits at the intersection of Computer Vision and Physical Un
 
 
 ## Education
-<!-- Stanford -->
+<!-- UT Austin -->
 <div class="edu-item">
   <div class="edu-info">
-    <strong>Ph.D.</strong>  <span class="edu-date">Sep 2024 – Present</span><br>
-    <span class="edu-school">Stanford University, Palo Alto, CA</span><br>
-    Ph.D. student in Computer Science
+    <strong>Intern</strong>  <span class="edu-date">Jun. 2025 – Present</span><br>
+    <span class="edu-school">The University of Texas at Austin</span><br>
+    Department of Computer Science
   </div>
   <div class="edu-logo">
-    <img src="/assets/img/stanford_logo.png" alt="Stanford logo">
+    <img src="/assets/img/UT_logo.png" alt="UT logo">
+  </div>
+</div>
+
+<!-- UofT -->
+<div class="edu-item">
+  <div class="edu-info">
+    <strong>Exchange</strong>  <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
+    <span class="edu-school">University of Toronto</span><br>
+    Department of Electrical & Computer Engineering
+  </div>
+  <div class="edu-logo">
+    <img src="/assets/img/UofT_logo.png" alt="UofT logo">
   </div>
 </div>
 
 <!-- ZJU -->
 <div class="edu-item">
   <div class="edu-info">
-    <strong>B.S.</strong>  <span class="edu-date">Sep 2020 – Jun 2024</span><br>
-    <span class="edu-school">Zhejiang University (ZJU), Hangzhou, China</span><br>
-    B.S. (Honors) in Mathematics & Applied Mathematics<br>
-    Advisor: <a href="https://scholar.google.com/citations?user=xxxx">Prof. Fei Wu</a>
+    <strong>B.S.</strong>  <span class="edu-date">Sept. 2022 – Present</span><br>
+    <span class="edu-school">Zhejiang University</span><br>
+    B.S.(Honors) in Robotic Engineering
   </div>
   <div class="edu-logo">
-    <img src="/assets/img/zju_logo.png" alt="ZJU logo">
+    <img src="/assets/img/UofT_logo.png" alt="UofT logo">
   </div>
 </div>
+
 
 <style>
 /* 轻量级排版，不会影响全站样式 */
