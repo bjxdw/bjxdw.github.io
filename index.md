@@ -15,7 +15,7 @@ I am broadly interested in Computer Vision and, more specifically, in Physical
 <!-- ZJU -->
 <div class="edu-item">
   <div class="edu-info">
-    <span class="edu-school">Zhejiang University </span> <span class="edu-date">Sept. 2022 – Present</span><br>
+    <strong class="edu-school">Zhejiang University </strong> <span class="edu-date">Sept. 2022 – Present</span><br>
     <strong>BEng. (Honors)</strong> in Robotic Engineering, College of Control Science and Engineering
   </div>
   <div class="edu-logo">
@@ -27,7 +27,7 @@ I am broadly interested in Computer Vision and, more specifically, in Physical
 <!-- UT Austin -->
 <div class="edu-item">
   <div class="edu-info">
-    <span class="edu-school">The University of Texas at Austin </span> <span class="edu-date">Jun. 2025 – Present</span> <br>
+    <strong class="edu-school">The University of Texas at Austin </strong> <span class="edu-date">Jun. 2025 – Present</span> <br>
     <strong>Research Intern</strong>, Department of Computer Science
   </div>
   <div class="edu-logo">
@@ -38,7 +38,7 @@ I am broadly interested in Computer Vision and, more specifically, in Physical
 <!-- UofT -->
 <div class="edu-item">
   <div class="edu-info">
-    <span class="edu-school">University of Toronto </span> <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
+    <strong class="edu-school">University of Toronto </strong> <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
     <strong>Exchange Student</strong>, Department of Electrical & Computer Engineering
   </div>
   <div class="edu-logo">
