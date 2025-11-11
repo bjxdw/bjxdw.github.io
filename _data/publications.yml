@@ -2,8 +2,8 @@ main:
 
   - title: "HiTag: Hierarchical Image Tagging with Hyperbolic Vision‑Language Modeling"
     authors: "Yi Yang, <strong>Ziyue Peng</strong>, Kang Zhang, Xincheng Tan, Fan Lu, Jingting Ding, Kecheng Zheng, Minfeng Zhu, Wei Chen"
-    conference_short: "ICLR"
-    conference: "The International Conference on Learning Representations <strong>(ICLR)</strong>, 2026."
+    conference_short: "CVPR"
+    conference: "The Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026."
     pdf: "https://bjxdw.github.io/"
     code: "https://bjxdw.github.io/"
     bibtex: "https://bjxdw.github.io/"
