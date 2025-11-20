@@ -23,6 +23,17 @@ I am broadly interested in **Computer Vision**, with a particular focus on **Phy
   </div>
 </div>
 
+<!-- UofT -->
+<div class="edu-item">
+  <div class="edu-info">
+    <strong class="edu-school">University of Toronto </strong> <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
+    <strong>Exchange Student</strong>, Department of Electrical & Computer Engineering
+  </div>
+  <div class="edu-logo">
+    <img src="/assets/img/UofT_logo2.png" alt="UofT logo">
+  </div>
+</div>
+
 ## Experiences
 <!-- UT Austin -->
 <div class="edu-item">
@@ -32,17 +43,6 @@ I am broadly interested in **Computer Vision**, with a particular focus on **Phy
   </div>
   <div class="edu-logo">
     <img src="/assets/img/UT_logo.png" alt="UT logo">
-  </div>
-</div>
-
-<!-- UofT -->
-<div class="edu-item">
-  <div class="edu-info">
-    <strong class="edu-school">University of Toronto </strong> <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
-    <strong>Exchange Student</strong>, Department of Electrical & Computer Engineering
-  </div>
-  <div class="edu-logo">
-    <img src="/assets/img/UofT_logo2.png" alt="UofT logo">
   </div>
 </div>
 
