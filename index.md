@@ -8,7 +8,7 @@ I’m a fourth-year undergraduate at Zhejiang University and a research intern a
 
 ## Research Interests
 
-I am broadly interested in **Computer Vision**, with a particular focus on **Physical Understanding**. My research explores how AI systems can infer physical information of the real world, how to narrow the gap between physical simulation and the real world, and how incorporating physical knowledge can enhance the performance of foundation models.
+I am broadly interested in **Computer Vision**, with a particular focus on **Physical Understanding**. My research explores how AI systems can infer physical properties from video data, how to leverage this knowledge to equip visual foundation models with physical reasoning, how incorporating physical laws can enhance the realism and consistency of generative models, and how to accelerate physical simulation and narrow the Sim2Real gap.
 
 ## Education
 
