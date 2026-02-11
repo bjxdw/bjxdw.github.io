@@ -7,7 +7,7 @@ main:
     pdf: "https://bjxdw.github.io/"
     code: "https://bjxdw.github.io/"
     bibtex: "https://bjxdw.github.io/"
-    image: "./assets/img/PhysReader_Teaser_sq_ab.png"
+    image: "./assets/img/PhysReader_Teaser_sq_ab.jpg"
     notes: "Under Review"
 
   - title: "HiTag: Hierarchical Image Tagging with Hyperbolic Vision‑Language Modeling"
