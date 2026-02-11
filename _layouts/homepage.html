@@ -44,6 +44,11 @@
         {% endif %}
 
         <h1>{{ site.title }}</h1>
+        {% if site.title_zh %}
+        <div style="margin-top:-8px; font-size:1.10rem; color:#555;">
+          {{ site.title_zh }}
+        </div>
+        {% endif %}
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
