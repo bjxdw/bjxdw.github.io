@@ -38,7 +38,7 @@ I am broadly interested in **Computer Vision**, with a particular focus on **Phy
 <!-- UT Austin -->
 <div class="edu-item">
   <div class="edu-info">
-    <strong class="edu-school">The University of Texas at Austin </strong> <span class="edu-date">Jun. 2025 – Present</span> <br>
+    <strong class="edu-school">The University of Texas at Austin </strong> <span class="edu-date">Jun. 2025 – Oct. 2025</span> <br>
     <strong>Research Intern</strong>, Department of Computer Science
   </div>
   <div class="edu-logo">
