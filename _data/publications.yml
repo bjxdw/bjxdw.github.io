@@ -1,5 +1,15 @@
 main:
 
+  - title: "Understanding Physics from Real-World Videos"
+    authors: "<strong>Ziyue Peng</strong>, Yanxi Hu, Etienne Vouga, Chandrajit Bajaj, William T. Freeman, Qixing Huang, Brandon Y. Feng"
+    conference_short: "SIGGRAPH"
+    conference: "ACM SIGGRAPH Conference on Computer Graphics and Interactive Techniques, 2026."
+    pdf: "https://bjxdw.github.io/"
+    code: "https://bjxdw.github.io/"
+    bibtex: "https://bjxdw.github.io/"
+    image: "./assets/img/PhysReader_Teaser_sq.png"
+    notes: "Under Review"
+
   - title: "HiTag: Hierarchical Image Tagging with Hyperbolic Vision‑Language Modeling"
     authors: "Yi Yang, <strong>Ziyue Peng</strong>, Kang Zhang, Xincheng Tan, Fan Lu, Jingting Ding, Kecheng Zheng, Minfeng Zhu, Wei Chen"
     conference_short: "CVPR"
@@ -10,12 +20,4 @@ main:
     image: "./assets/img/HiTag_teaser.png"
     notes: "Under Review"
 
-  - title: "Understanding Physics from Real-World Videos"
-    authors: "<strong>Ziyue Peng</strong>, Yanxi Hu, Etienne Vouga, Chandrajit Bajaj, William T. Freeman, Qixing Huang, Brandon Y. Feng"
-    conference_short: "SIGGRAPH"
-    conference: "ACM SIGGRAPH Conference on Computer Graphics and Interactive Techniques, 2026."
-    pdf: "https://bjxdw.github.io/"
-    code: "https://bjxdw.github.io/"
-    bibtex: "https://bjxdw.github.io/"
-    image: "./assets/img/HiTag_teaser.png"
-    notes: "Under Review"
+
