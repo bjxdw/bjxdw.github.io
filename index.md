@@ -4,19 +4,32 @@ layout: homepage
 
 ## About Me
 
-I’m a fourth-year undergraduate at Zhejiang University and a research intern at the University of Texas at Austin, advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/), [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml), and [Prof. Etienne Vouga](https://www.cs.utexas.edu/~evouga/). Previously, I was an exchange student at the University of Toronto, where I worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). At Zhejiang University, I'm fortunate to have worked with [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) and [Prof. Yuanchao Shu](https://yshu.org/).
+I’m an incoming Ph.D. student at The University of Texas at Austin, where I will be advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/). I am currently a fourth-year undergraduate at Zhejiang University.
+
+During my research internship at UT Austin, I also collaborated with [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml) and [Prof. Etienne Vouga](https://www.cs.utexas.edu/~evouga/). Previously, I was an exchange student at the University of Toronto, where I worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). At Zhejiang University, I have been fortunate to work with [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) and [Prof. Yuanchao Shu](https://yshu.org/).
 
 ## Research Interests
 
-I am broadly interested in **Computer Vision**, with a particular focus on **Physical Understanding**. My research explores how AI systems can infer physical properties from video data, how to leverage this knowledge to equip visual foundation models with physical reasoning, how incorporating physical laws can enhance the realism and consistency of generative models, and how to accelerate physical simulation and narrow the Sim2Real gap.
+I am broadly interested in **Computer Vision and Graphics**, with a particular focus on **Physical Understanding**. My research explores how AI systems can infer physical properties from video data, how to leverage this knowledge to equip visual foundation models with physical reasoning, how incorporating physical laws can enhance the realism and consistency of generative models, and how neural networks can accelerate physical simulation while narrowing the sim-to-real gap.
 
 ## Education
+
+<!-- UT Austin -->
+<div class="edu-item">
+  <div class="edu-info">
+    <strong class="edu-school">The University of Texas at Austin </strong> <span class="edu-date">Aug.2026 - </span> <br>
+    <strong>Ph.D.</strong> in Computer Science
+  </div>
+  <div class="edu-logo">
+    <img src="/assets/img/UT_logo.png" alt="UT logo">
+  </div>
+</div>
 
 <!-- ZJU -->
 <div class="edu-item">
   <div class="edu-info">
-    <strong class="edu-school">Zhejiang University </strong> <span class="edu-date">Sept. 2022 – Present</span><br>
-    <strong>BEng. (Honors)</strong> in Robotic Engineering, College of Control Science and Engineering
+    <strong class="edu-school">Zhejiang University </strong> <span class="edu-date">Sept. 2022 – Jun. 2026</span><br>
+    <strong>B.Eng.</strong> in Robotic Engineering (Honors)
   </div>
   <div class="edu-logo">
     <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
@@ -27,24 +40,13 @@ I am broadly interested in **Computer Vision**, with a particular focus on **Phy
 <div class="edu-item">
   <div class="edu-info">
     <strong class="edu-school">University of Toronto </strong> <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
-    <strong>Exchange Student</strong>, Department of Electrical & Computer Engineering
+    <strong>Exchange Student</strong>, Electrical & Computer Engineering
   </div>
   <div class="edu-logo">
     <img src="/assets/img/UofT_logo2.png" alt="UofT logo">
   </div>
 </div>
 
-## Experiences
-<!-- UT Austin -->
-<div class="edu-item">
-  <div class="edu-info">
-    <strong class="edu-school">The University of Texas at Austin </strong> <span class="edu-date">Jun. 2025 – Oct. 2025</span> <br>
-    <strong>Research Intern</strong>, Department of Computer Science
-  </div>
-  <div class="edu-logo">
-    <img src="/assets/img/UT_logo.png" alt="UT logo">
-  </div>
-</div>
 
 <style>
 /* 轻量级排版，不会影响全站样式 */
