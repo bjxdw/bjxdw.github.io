@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m an incoming Ph.D. student at The University of Texas at Austin, where I will be advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/). I am currently a fourth-year undergraduate at Zhejiang University.
-
-During my research internship at UT Austin, I also collaborated with [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml) and [Prof. Etienne Vouga](https://www.cs.utexas.edu/~evouga/). Previously, I was an exchange student at the University of Toronto, where I worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). At Zhejiang University, I have been fortunate to work with [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) and [Prof. Yuanchao Shu](https://yshu.org/).
+I’m an incoming Ph.D. student at The University of Texas at Austin, where I will be advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/). I am currently a fourth-year undergraduate at Zhejiang University. During my research internship at UT Austin, I also collaborated with [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml) and [Prof. Etienne Vouga](https://www.cs.utexas.edu/~evouga/). Previously, I was an exchange student at the University of Toronto, where I worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). At Zhejiang University, I have been fortunate to work with [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) and [Prof. Yuanchao Shu](https://yshu.org/).
 
 ## Research Interests
 
@@ -17,7 +15,7 @@ I am broadly interested in **Computer Vision and Graphics**, with a particular f
 <!-- UT Austin -->
 <div class="edu-item">
   <div class="edu-info">
-    <strong class="edu-school">The University of Texas at Austin </strong> <span class="edu-date">Aug.2026 - </span> <br>
+    <strong class="edu-school">The University of Texas at Austin </strong> <span class="edu-date">Aug. 2026 - Jun. 2031</span> <br>
     <strong>Ph.D.</strong> in Computer Science
   </div>
   <div class="edu-logo">
