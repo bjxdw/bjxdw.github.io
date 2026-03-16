@@ -20,4 +20,13 @@ main:
     image: "./assets/img/HiTag_teaser.png"
     notes: "Under Review"
 
+  - title: "MI3D-NeRF: Metric Neural 3D Reconstruction for Minimally Invasive Surgery Scenes"
+    authors: "Radian Gondokaryono, <strong>Ziyue Peng</strong>, Lueder A. Kahrs"
+    conference_short: "T-RO"
+    conference: "IEEE Transactions on Robotics <strong>(T-RO)</strong>, 2026."
+    pdf: "https://bjxdw.github.io/"
+    code: "https://bjxdw.github.io/"
+    bibtex: "https://bjxdw.github.io/"
+    image: "./assets/img/HiTag_teaser.png"
+    notes: "Under Review"
 
