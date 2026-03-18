@@ -40,7 +40,7 @@ I am broadly interested in **Computer Vision and Graphics**, with a particular f
 <div class="edu-item">
   <div class="edu-info">
     <strong class="edu-school">University of Toronto </strong> <span class="edu-date">Sept. 2024 – Dec. 2024</span><br>
-    <strong>Exchange Student</strong>, Electrical & Computer Engineering
+    <strong>Exchange Student</strong>, Applied Science & Engineering
   </div>
   <div class="edu-logo">
     <img src="/assets/img/UofT_logo2.png" alt="UofT logo">
