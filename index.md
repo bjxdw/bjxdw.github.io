@@ -22,17 +22,6 @@ During my research internship at UT Austin, I also collaborated with [Prof. Chan
   </div>
 </div>
 
-<!-- ZJU -->
-<div class="edu-item">
-  <div class="edu-info">
-    <strong class="edu-school">Zhejiang University </strong> <span class="edu-date">Sept. 2022 – Jun. 2026</span><br>
-    <strong>B.Eng.</strong> in Robotic Engineering (Honors)
-  </div>
-  <div class="edu-logo">
-    <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
-  </div>
-</div>
-
 <!-- UofT -->
 <div class="edu-item">
   <div class="edu-info">
@@ -44,6 +33,16 @@ During my research internship at UT Austin, I also collaborated with [Prof. Chan
   </div>
 </div>
 
+<!-- ZJU -->
+<div class="edu-item">
+  <div class="edu-info">
+    <strong class="edu-school">Zhejiang University </strong> <span class="edu-date">Sept. 2022 – Jun. 2026</span><br>
+    <strong>B.Eng.</strong> in Robotic Engineering (Honors)
+  </div>
+  <div class="edu-logo">
+    <img src="/assets/img/ZJU_logo.png" alt="ZJU logo">
+  </div>
+</div>
 
 <style>
 /* 轻量级排版，不会影响全站样式 */
