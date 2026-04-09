@@ -1,6 +1,6 @@
 main:
 
-  - title: "Understanding Physics from Real-World Videos"
+  - title: "Understanding Physical Patterns of Deformable Objects from Real-World Videos"
     authors: "<strong>Ziyue Peng</strong>, Yanxi Hu, Etienne Vouga, Chandrajit Bajaj, William T. Freeman, Qixing Huang, Brandon Y. Feng"
     conference_short: "SIGGRAPH"
     conference: "ACM SIGGRAPH Conference on Computer Graphics and Interactive Techniques, 2026."
@@ -8,16 +8,6 @@ main:
     code: "https://bjxdw.github.io/"
     bibtex: "https://bjxdw.github.io/"
     image: "./assets/img/PhysReader_Teaser_sq_ab.jpg"
-    notes: "Under Review"
-
-  - title: "HiTag: Hierarchical Image Tagging with Hyperbolic Vision‑Language Modeling"
-    authors: "Yi Yang, <strong>Ziyue Peng</strong>, Kang Zhang, Xincheng Tan, Fan Lu, Jingting Ding, Kecheng Zheng, Minfeng Zhu, Wei Chen"
-    conference_short: "ECCV"
-    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026"
-    pdf: "https://bjxdw.github.io/"
-    code: "https://bjxdw.github.io/"
-    bibtex: "https://bjxdw.github.io/"
-    image: "./assets/img/HiTag_teaser.png"
     notes: "Under Review"
 
   - title: "MI3D-NeRF: Metric Neural 3D Reconstruction for Minimally Invasive Surgery Scenes"
@@ -28,5 +18,15 @@ main:
     code: "https://bjxdw.github.io/"
     bibtex: "https://bjxdw.github.io/"
     image: "./assets/img/TRO_teaser.png"
+    notes: "Under Review"
+
+  - title: "HiTag: Hierarchical Image Tagging with Hyperbolic Multimodal Modeling"
+    authors: "Yi Yang, <strong>Ziyue Peng</strong>, Kang Zhang, Xincheng Tan, Fan Lu, Jingting Ding, Kecheng Zheng, Minfeng Zhu, Wei Chen"
+    conference_short: "ECCV"
+    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026"
+    pdf: "https://bjxdw.github.io/"
+    code: "https://bjxdw.github.io/"
+    bibtex: "https://bjxdw.github.io/"
+    image: "./assets/img/HiTag_teaser.png"
     notes: "Under Review"
 
