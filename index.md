@@ -4,9 +4,13 @@ layout: homepage
 
 ## About Me
 
-I’m a first-year Ph.D. student in Computer Science at The University of Texas at Austin, where I am advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/). I completed my undergraduate studies at Zhejiang University.
+Hi! I'm a first-year Ph.D. student in Computer Science at The University of Texas at Austin, advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Brandon Y. Feng](https://brandonyfeng.github.io/). I received my bachelor's degree in Robotics Engineering from Zhejiang University.
 
-At UT Austin, I also collaborate with [Prof. Etienne Vouga](https://www.cs.utexas.edu/~evouga/) and [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml). Previously, I was an exchange student at the University of Toronto, where I worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). At Zhejiang University, I worked with [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) and [Prof. Yuanchao Shu](https://yshu.org/).
+My research interests lie at the intersection of Computer Graphics, Physical Simulation, and Machine Learning. I am particularly interested in understanding the physical properties of the real world from visual observations, as well as developing learning-based methods to improve physical simulation.
+
+At UT Austin, I also collaborate with [Prof. Etienne Vouga](https://www.cs.utexas.edu/~evouga/) and [Prof. Chandrajit Bajaj](https://www.cs.utexas.edu/~bajaj/cvc/index.shtml). Previously, I was an exchange student at the University of Toronto, where I worked with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs). During my undergraduate studies at Zhejiang University, I worked with [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) and [Prof. Yuanchao Shu](https://yshu.org/).
+
+I am actively seeking research internship opportunities for Summer 2027! I am open to opportunities in physical simulation, computer graphics, computer vision, and related areas of machine learning. Please feel free to reach out!
 
 
 ## Education
