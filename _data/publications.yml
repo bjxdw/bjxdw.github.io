@@ -1,9 +1,9 @@
 main:
 
-  - title: "Understanding Physical Patterns of Deformable Objects from Real-World Videos"
-    authors: "<strong>Ziyue Peng</strong>, Yanxi Hu, Etienne Vouga, Chandrajit Bajaj, William T. Freeman, Qixing Huang, Brandon Y. Feng"
-    #conference_short: "SIGGRAPH Asia"
-    #conference: "ACM SIGGRAPH Asia Conference on Computer Graphics and Interactive Techniques, 2026"
+  - title: "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video"
+    authors: "<strong>Ziyue Peng</strong>, Yanxi Hu, Junyoung Kim, Andrew Chen, Jin Yang, Chandrajit L. Bajaj, Etienne Vouga, William T. Freeman, Qixing Huang, Brandon Y. Feng"
+    #conference_short: "CVPR 2027"
+    #conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2027"
     #pdf: "https://bjxdw.github.io/"
     #code: "https://bjxdw.github.io/"
     #bibtex: "https://bjxdw.github.io/"
